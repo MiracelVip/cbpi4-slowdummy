@@ -2,10 +2,10 @@ from setuptools import setup
 
 setup(name='cbpi4-slowdummy',
       version='0.0.1',
-      description='CraftBeerPi Plugin',
-      author='',
+      description='Sonsor with slow increasing value',
+      author='MiracelVip',
       author_email='',
-      url='',
+      url='https://github.com/MiracelVip/cbpi4-slowdummy',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:

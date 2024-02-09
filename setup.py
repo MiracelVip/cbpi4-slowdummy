@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='cbpi4-slowdummy',
-      version='0.0.1',
-      description='Sonsor with slow increasing value',
+      version='0.0.2',
+      description='Sensor with slow increasing value',
       author='MiracelVip',
       author_email='',
       url='https://github.com/MiracelVip/cbpi4-slowdummy',
